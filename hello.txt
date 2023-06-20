@@ -1,8 +1,25 @@
 Basic linux commands:
-DIFF : display the differences in the files by comparing the files line by line. 
-AWK : manipulating data and generating reports.
-CHMOD : change the access mode of a file
-NETSTAT: Displays various network related information such as network connections, routing tables, interface statistics, masquerade connections, multicast memberships 
-TRACEROUTE : command in Linux prints the route that a packet takes to reach the host.
-CRONTAB: system process which will automatically perform tasks for you according to a set schedule. 
-GREP :a command used in searching and matching text files contained in the regular expressions.
+diff : display the differences in the files by comparing the files line by line. 
+awk : manipulating data and generating reports.
+chmod : change the access mode of a file
+netstat: Displays various network related information such as network connections, routing tables, interface statistics, masquerade connections, multicast memberships 
+traceroute : command in Linux prints the route that a packet takes to reach the host.
+crontab: system process which will automatically perform tasks for you according to a set schedule. 
+grep :a command used in searching and matching text files contained in the regular expressions.
+pwd : it shows the directory you’re currently in.
+ls :It presents to you the contents of a particular directory – both files and directories. You will use this command alongside pwd to navigate your way inside the mighty Unix filesystem.
+cd: Short for Change Directory, the cd command is behind your movement from one directory to another. 
+mkdir:create a new folder through the terminal
+rmdir:delete specific folders from your system without any hassles.
+lsblk:list the available block devices of your Linux system.
+mount : Contrary to Windows, whenever you plug in an SD card or a USB, chances are your distro won’t show them directly at the start. You need to mount it with your existing filesystem using the mount command. 
+df:The df command that display essential information about the disk space on your filesystem
+uname : obtaining system information like name, version, and other system-specific details. 
+ps : allow you to visualize what processes are currently run by your machine. 
+kill : kill command is a way to stop processes that are stuck due to resource constraints. 
+service : The service command is the de-facto command to invoke system-wide services from the terminal.
+batch : tool that will run system services in a pre-defined schedule, the batch command is here for your redemption.
+shutdown : Feeling a bit lazy and don’t want to click a few GUI elements at the end of a long night? The shutdown command is here to empower your Linux terminal commands skills to a whole new level
+touch : The touch command is an essential Linux command for creating a valid empty file. 
+cat : Designed initially for concatenating multiple files,use to create new files,view file contents in the terminal,and redirect output to another command-line tool or file.
+head : The head command allows you to view the beginning of a file or piped data directly from the terminal. 

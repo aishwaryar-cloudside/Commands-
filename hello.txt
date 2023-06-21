@@ -23,3 +23,4 @@ shutdown : Feeling a bit lazy and don’t want to click a few GUI elements at th
 touch : The touch command is an essential Linux command for creating a valid empty file. 
 cat : Designed initially for concatenating multiple files,use to create new files,view file contents in the terminal,and redirect output to another command-line tool or file.
 head : The head command allows you to view the beginning of a file or piped data directly from the terminal. 
+systmctl, :Sysctl helps to configure the Linux kernel parameters during runtime.
